@@ -10,7 +10,6 @@ let h2 = document.querySelector("h2");
 document.addEventListener("keypress", function () {
     if (started == false) {
         console.log("game is started");
-        document.querySelector("body").style.backgroundColor = "blue";
         started = true;
 
         levelUp();
