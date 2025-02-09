@@ -19,7 +19,7 @@ A **memory-based pattern game** built using **HTML, CSS, and JavaScript**. Test 
 4. **Game gets harder** as you progress!  
 
 ## 🏃‍♂️ Try It Out  
-🔗 **Live Demo:** [Add your game link]  
+🔗 **Live Demo:** https://khushigupta-23.github.io/Simon_Says_Game/ 
 
 ## 🤝 Contributing  
 Feel free to fork the repository. 
